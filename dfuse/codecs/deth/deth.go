@@ -7,7 +7,7 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/eoscanada/jsonpb"
+	"github.com/streamingfast/jsonpb"
 	"github.com/gogo/protobuf/proto"
 	"github.com/golang/protobuf/ptypes"
 )
