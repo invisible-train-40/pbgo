@@ -1,4 +1,4 @@
-module github.com/streamingfast/pbgo
+module github.com/invisible-train-40/pbgo
 
 go 1.15
 
